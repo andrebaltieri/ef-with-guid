@@ -1,0 +1,10 @@
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\EFWithGuid\EFWithGuid\bin\Debug\EFWithGuid.exe.config
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\EFWithGuid\EFWithGuid\bin\Debug\EFWithGuid.exe
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\EFWithGuid\EFWithGuid\bin\Debug\EFWithGuid.pdb
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\EFWithGuid\EFWithGuid\bin\Debug\EntityFramework.dll
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\EFWithGuid\EFWithGuid\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\EFWithGuid\EFWithGuid\bin\Debug\EntityFramework.xml
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\EFWithGuid\EFWithGuid\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\EFWithGuid\EFWithGuid\obj\Debug\EFWithGuid.csprojResolveAssemblyReference.cache
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\EFWithGuid\EFWithGuid\obj\Debug\EFWithGuid.exe
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\EFWithGuid\EFWithGuid\obj\Debug\EFWithGuid.pdb
